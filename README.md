@@ -8,7 +8,7 @@
 - 🎓 I graduated in Computer Engineering from **USACH**  
 - 🌱 I’m currently learning **web development, AI, and automation**  
 - 👨‍💻 I’m interested in working on **software development projects**  
-- 🧠 I have experience with **SQL, Java, JavaScript, Python, and C**  
+- 🧠 I have experience with **SQL, Java, JavaScript and Python**  
 - 📫 Reach me at: [ignacio.castro.t@gmail.com](mailto:ignacio.castro.t@gmail.com)  
 
 
